@@ -1,3 +1,7 @@
 .background-color {
   background-color: antiquewhite;
 }
+.navbar-color {
+  background-color: antiquewhite;
+  box-shadow: 10px 10px 5px lightslategray;
+}
